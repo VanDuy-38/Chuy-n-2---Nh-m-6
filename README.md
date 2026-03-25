@@ -4,9 +4,9 @@
 | STT | Họ và Tên | MSSV | Vị Trí |
 |-----|-----------|------|--------|
 | 1 | Dương Văn Thành | 20221018 | Trưởng Nhóm |
-| 2 | Nguyễn Văn Duy | 20220995 | Thành Viên (Frontend) |
+| 2 | Nguyễn Văn Duy | 20220995 | Thành Viên (Backend) |
 | 3 | Trần Thị Hoàng Quỳnh | 20221008 | Thành Viên (Frontend) |
-| 4 | Nguyễn Thị Thúy Hằng | 20221192 | Thành Viên (Backend) |
+| 4 | Nguyễn Thị Thúy Hằng | 20221192 | Thành Viên (Frontend) |
 
 ## 🎯 Mục Tiêu Dự Án
 - Xây dựng ứng dụng đặt sân di động mượt mà, thân thiện với "lông thủ".
